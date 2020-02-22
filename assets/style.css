@@ -1,0 +1,39 @@
+body {
+	background-image: url("./wallpaper.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top;
+	background-size: cover;
+	background-color: #355C7D;
+	color: #ffffff;
+	font-family: 'Ubuntu', sans-serif;
+	padding: 10px;
+}
+
+.jumbotron {
+    background-color: #FF552B;
+    border: 5px solid #A62317;
+}
+
+.engineer-card {
+	background-color: #FCD8BC;
+	border: 5px solid #A62317;
+	color: #000000;
+
+}
+
+.intern-card {
+	background-color: #A62317;
+	border: 5px solid #44140A;
+	color: #ffffff;
+}
+
+.manager-card {
+	background-color: #FBB03B;
+	border: 5px solid #A62317;
+	color: #000000;
+}
+
+.card {
+	margin: 10px;
+}
