@@ -7,4 +7,4 @@ A command-line application that dynamically generates an HTML page containing yo
 * [Inquirer](https://www.npmjs.com/package/inquirer)
 
 ### Screenshot:
-![Screenshot](../assets/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/everetthumphreys/employee-summary-engine/master/assets/screenshot.png)
